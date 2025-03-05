@@ -22,10 +22,11 @@ This project is a railway system simulator developed using **C++** and **SFML** 
 1. **Setup**:
    - Clone the repository.
    - Ensure SFML is installed on your system.
-   - Build and compile the project using a C++ compiler.
+   - setup SFML on visual Studio, best guide I found setting SFML : https://www.youtube.com/watch?v=4fcTqmT0Hhg
+   - Build and compile the project.
 
 2. **Running the Project**:
-   - Execute the compiled binary to launch the railway system simulator.
+   - launch the railway system simulator.
    - Use the interface to add or delete stations.
    - Manage stops within the network by adding or removing them.
    - Select stations to find the shortest path, which will be displayed with a blue line.
